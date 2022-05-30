@@ -1,0 +1,9 @@
+~~~~ plan ~~~~
+
+- make cards - own class?
+ - need different suits
+ - joker does not have suit
+aiibfuwbfujhbdnsaj fbwfeiubIUDJBF
+maybe make players class?
+seems unnecessary idk
+ - need name parameter
